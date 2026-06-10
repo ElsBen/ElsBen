@@ -84,6 +84,8 @@ Exploring practical integrations of AI into everyday software solutions.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElsBen&show_icons=true&theme=tokyonight)
 
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ElsBen&theme=tokyonight)
 
 ---
@@ -91,10 +93,6 @@ Exploring practical integrations of AI into everyday software solutions.
 ## 📫 Contact
 
 Feel free to connect or collaborate on interesting projects.
-
----
-
-> "Continuous learning is the key to becoming a great developer."
 
 ---
 
