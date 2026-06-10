@@ -10,6 +10,7 @@ My main interests are:
 * 🤖 Artificial Intelligence
 * 🐍 Python
 * ⚡ JavaScript & TypeScript
+* 💪 Angular 19 & React
 * 🎨 Modern UI/UX Design
 
 I enjoy building practical applications, learning new technologies, and continuously improving my programming skills.
